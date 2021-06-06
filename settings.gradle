@@ -1,0 +1,5 @@
+rootProject.name = 'beta-splay'
+
+include 'beta-splay-api'
+include 'beta-splay-ui'
+
